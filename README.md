@@ -1,6 +1,6 @@
-# 🤖 LAPBOT ULTRA – Voice Controlled Desktop Assistant
+# 🤖 LAPBOOT ULTRA – Voice Controlled Desktop Assistant
 
-LAPBOT ULTRA is an advanced Python-based voice-controlled desktop assistant designed to automate system tasks, respond to voice commands, and optionally interact with AI for intelligent conversations.  
+LAPBOOT ULTRA is an advanced Python-based voice-controlled desktop assistant designed to automate system tasks, respond to voice commands, and optionally interact with AI for intelligent conversations.  
 It demonstrates real-world implementation of speech recognition, automation, multithreading, and AI integration.
 
 ---
