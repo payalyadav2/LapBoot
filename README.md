@@ -1,13 +1,13 @@
-# 🤖 LAPBOOT ULTRA – Voice Controlled Desktop Assistant
+# 🤖 LAPBOOT – Voice Controlled Desktop Assistant
 
-LAPBOOT ULTRA is an advanced Python-based voice-controlled desktop assistant designed to automate system tasks, respond to voice commands, and optionally interact with AI for intelligent conversations.  
+LAPBOOT is an advanced Python-based voice-controlled desktop assistant designed to automate system tasks, respond to voice commands, and optionally interact with AI for intelligent conversations.  
 It demonstrates real-world implementation of speech recognition, automation, multithreading, and AI integration.
 
 ---
 
 ## 📌 Project Description
 
-LAPBOT ULTRA works like a Jarvis-style assistant that listens to user voice or text commands and performs actions such as:
+LAPBOOT works like a Jarvis-style assistant that listens to user voice or text commands and performs actions such as:
 
 - Opening and closing applications  
 - Searching Google and YouTube  
@@ -95,9 +95,8 @@ python lapbot_final.py --text-mode
 
 ## 👨‍💻 Developer
 
-payal yadav 
-BCA (AI & ML)  
-Python | Automation 
+Payal
+BCA (Data Engineering)  
 
 ---
 
